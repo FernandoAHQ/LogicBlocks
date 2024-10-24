@@ -1,0 +1,7 @@
+.background {
+    height: 100vh; /* Make sure the body takes the full height of the viewport */
+    background-color: white; /* Base background color */
+    background-image: 
+      radial-gradient(circle, #c2c2c2 1px, transparent 1px);
+    background-size: 20px 20px; /* Size of each dot and spacing */
+  }
